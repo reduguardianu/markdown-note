@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "marek@example.com",
+                "Name": "Marek"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "A sticky note with markdown support",
+        "Icon": "edit-paste",
+        "Id": "org.kde.plasma6.markdownnote",
+        "License": "GPL-2.0+",
+        "Name": "Markdown Note",
+        "Version": "3.1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
